@@ -2,3 +2,6 @@
 	path = buildroot-beaglev
 	url = https://github.com/Come1LLF00/buildroot-beaglev.git
 	branch = tpetazzoni-beaglev
+[submodule "renode-beagle-v"]
+	path = renode-beagle-v
+	url = https://github.com/Come1LLF00/renode-beagle-v.git
