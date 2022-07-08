@@ -5,3 +5,4 @@
 [submodule "renode-beagle-v"]
 	path = renode-beagle-v
 	url = https://github.com/Come1LLF00/renode-beagle-v.git
+	path = from-br2-beaglev
