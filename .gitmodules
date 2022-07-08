@@ -1,3 +1,4 @@
 [submodule "buildroot-beaglev"]
 	path = buildroot-beaglev
 	url = https://github.com/Come1LLF00/buildroot-beaglev.git
+	branch = tpetazzoni-beaglev
