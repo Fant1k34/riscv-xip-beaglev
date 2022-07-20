@@ -6,3 +6,6 @@
 	path = renode-beagle-v
 	url = https://github.com/Come1LLF00/renode-beagle-v.git
 	path = from-br2-beaglev
+[submodule "linux-5.18-beaglev"]
+	path = linux-5.18-beaglev
+	url = https://github.com/Come1LLF00/linux-5.18-beaglev.git
